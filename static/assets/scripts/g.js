@@ -14,6 +14,12 @@ document.addEventListener('DOMContentLoaded', () => {
       blank: 'true',
     },
     {
+      name: 'ADOFAI',
+      link: 'https://fizzd.itch.io/a-dance-of-fire-and-ice',
+      image: '/assets/media/icons/adofai.jpeg',
+      categories: ['all'],
+    },
+    {
       name: 'Dynast.io',
       link: 'https://dynast.io',
       image: '/assets/media/icons/dynast-io.png',
